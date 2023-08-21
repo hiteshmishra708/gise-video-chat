@@ -201,3 +201,8 @@ Suggestions and pull requests for extensions are always welcome.
 ## License
 
 [Apache License 2.0](LICENSE)
+
+- `npm install findup-sync -g`
+- `npm install resolve -g`
+- `npm install nopt -g`
+- `npm install grunt-known-options -g`
