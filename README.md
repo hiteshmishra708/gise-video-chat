@@ -206,3 +206,4 @@ Suggestions and pull requests for extensions are always welcome.
 - `npm install resolve -g`
 - `npm install nopt -g`
 - `npm install grunt-known-options -g`
+- `grunt deploy --target=production && node server.js`
